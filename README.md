@@ -1,3 +1,9 @@
+**NOTE: This repo is a fork of [ziscloud/angular-slimscroll](https://github.com/ziscloud/angular-slimscroll) for distribution on `npm`. Please file issues and pull requests against that repo.**
+
+```
+npm install --save angular-jquery-slimscroll
+```
+
 angular-slimscroll
 ==================
 This is a small directive to allow the use of jquery slimScroll plugin (https://github.com/rochal/jQuery-slimScroll) in angular.
